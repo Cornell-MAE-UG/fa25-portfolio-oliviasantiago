@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Olivia Santiago
 description              : Olivia Santiago - Projects and CV 
-baseurl                  : "fa25-portfolio-oliviasantiago" 
+baseurl                  : "/fa25-portfolio-oliviasantiago" 
 
 # Theme and Style
 theme: jekyll-theme-minimal
