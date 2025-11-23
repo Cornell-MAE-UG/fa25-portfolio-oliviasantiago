@@ -7,6 +7,8 @@ image: /assets/images/MAE-Alpha-CubeSat-144.jpg
 ---
 
 
+The Alpha CubeSat mission was a project started in 2012. 
+
 Spring semester 2025, I joined the Alpha CubeSat Integration and Testing team to help validate the Space System Design Studio's cube satellite for launch aboard a SpaceX resupply mission to the ISS. 
 
 
