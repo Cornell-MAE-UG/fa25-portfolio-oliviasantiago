@@ -102,12 +102,13 @@ footer {
 }
 
 .profile-image-large {
+    width: 300px;
+    height: 400px;
+    border-radius: 8px;
     float: left;
-    width: 400px;
-    height: auto;
-    display: block;
-    margin: 0 auto;
+    margin: 0 20px 20px 0;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    object-fit: cover; /* ensures the image fills the rectangle nicely */
 }
 
 .project-image {
