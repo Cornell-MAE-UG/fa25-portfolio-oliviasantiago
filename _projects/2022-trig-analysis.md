@@ -6,7 +6,6 @@ technologies: [TVAC]
 image: /assets/images/MAE-Alpha-CubeSat-144.jpg
 ---
 
-
 # Space Systems Design Studio — SP25 Report
 **Olivia Santiago**  
 Cornell University, Ithaca, NY 14850  
@@ -47,7 +46,7 @@ The Alpha CubeSat release mechanism consists of:
 
 **Outcome:** Deployment testing was successful; test CubeSats confirmed latch movement matched the flight unit.  
 
-![Figure 1: Final knot configuration](images/knot_config.jpg)  
+![Figure 1: Final knot configuration](images/knot_config.png)  
 
 ---
 
