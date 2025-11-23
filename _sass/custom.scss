@@ -95,10 +95,12 @@ footer {
 .highlight .o { color: #ff5370; }
 
 .profile-image {
-  float: left;
-  margin: 20px 25px 25px 0;
-  width: 150px;
-  vertical-align: top;
+  .profile-image {
+    width: 200px;   /* desired width */
+    height: auto;   /* keeps aspect ratio */
+    border-radius: 50%; /* optional, makes it circular */
+    display: block;      /* optional, removes inline spacing */
+    margin: 0 auto;      /* optional, centers the image */
 }
 
 .project-image {
