@@ -6,11 +6,13 @@ title: Olivia Santiago
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/CUAir_Headshot.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am a junior studying mechanical engineering at Cornell University. At Cornell I have had the opportunity to be exposed to several aerospace related projects including CubeSats, ChipSat deployers, UAVs, aircraft & car engines, and wind tunnels. This past summer I interned at the Air Force Research Lab Rocket Lab at Edwards Air Force Base where I reverse engineering UAV flight envelopes and trajectories. 
+My name is {{ site.name }}, and I am a junior studying mechanical engineering at Cornell University. I've built a broad foundation in aerospace engineering through internships, project teams, research, and hands-on technical roles. At the Air Force Research Lab's Rocket Lab, I worked on reverse-engineering UAV flight envelopes and trajectories. Through the Cornell MAE Learning Studios, I supported engineering education by helping develop and test instructional hardware. With the Space Systems Design Studio (SSDS), I contributed to CubeSat validation efforts, ensuring systems met rigorous flight-readiness standards. Most recently, on Cornell Unmanned Air Systems (CUAir), I've contributed to the development of a 55lb VTOL fixed-wing UAV. 
 
-Through these experiences, I have developed a passion for design, manufacturing, simulations, and testing. Cornell's rigorous engineering coursework and fast, startup nature of project teams have never ceased to present with challenges. I've enjoyed every opportunity to get hands-on and see immediate impact. 
+Beyond project work, I also train students in the Cornell machine shop (formally known as the Manufacturing Learning Studio), teaching safe and effective use of mills and lathes, an experience that has strengthened both my manufacturing skills and my ability to communicate technical concepts. 
+
+Together, these experiences have shaped my passion for aerospace design, simulation, manufacturing, and testing. They continue to motivate me to apply my skills to real-world challenges and contribute to the next generation of aerospace systems.  
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.

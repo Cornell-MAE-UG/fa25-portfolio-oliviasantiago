@@ -20,7 +20,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.7/4.0 | Graduation: May, 2027
+  GPA: 3.703/4.0 | Graduation: May, 2027
 
 - **Flower Mound High School**  
   *High School Diploma*  
