@@ -6,7 +6,7 @@ title: Olivia Santiago
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/CUAir_Headshot.jpg" | relative_url }}){: class="profile-image-large"}
+![Profile Picture]({{ "assets/images/Headshot2025.jpg" | relative_url }}){: class="profile-image-large"}
 
  
 My name is {{ site.name }}, and I am a junior studying mechanical engineering at Cornell University. I've built a broad foundation in aerospace engineering through internships, project teams, research, and hands-on technical roles. At the **Air Force Research Lab's Rocket Lab**, I worked on reverse-engineering UAV flight envelopes and trajectories. Through the [Cornell MAE Learning Studios](https://www.engineering.cornell.edu/mae/learning-studios/), I supported engineering education by helping develop and test instructional hardware. With the [Space Systems Design Studio (SSDS)](https://www.spacecraftresearch.com/), I contributed to **CubeSat** validation efforts, ensuring systems met rigorous flight-readiness standards. Most recently, on [Cornell Unmanned Air Systems (CUAir)](https://cuair.org/), I've contributed to the development of a **55lb VTOL fixed-wing UAV**. 
