@@ -26,7 +26,7 @@ Additional responsibilities included preparing and testing CubeSats and supporti
 
 Below are the five major assignments I completed this semester (chronologically), mostly alongside **Joshua Umansky-Castro** and I&T members **Apurva Hanwadikar, Cion Kim, Langston Hughes, and Italivi Diaz**. Latch displacement was measured after each test.  
 
-### A. Deployment Testing / Knot Tying
+#### A. Deployment Testing / Knot Tying
 The Alpha CubeSat release mechanism consists of:  
 - Solar panel roof  
 - Milled aluminum latch and spring  
@@ -49,7 +49,7 @@ The Alpha CubeSat release mechanism consists of:
 
 ---
 
-### B. Cleanroom Assembly
+#### B. Cleanroom Assembly
 **Tasks:**  
 - Assisted in assembling the flight unit before Nanoracks’ visit  
 - Applied Loctite and torqued bolts according to specification  
@@ -62,7 +62,7 @@ The Alpha CubeSat release mechanism consists of:
 
 ---
 
-### C. Vibration Testing
+#### C. Vibration Testing
 - CubeSat loaded into payload holder and sent to Intertek for formal vibration testing  
 - Observed test and confirmed hardware integrity after test  
 
@@ -71,7 +71,7 @@ The Alpha CubeSat release mechanism consists of:
 
 ---
 
-### D. Thermal Vacuum Chamber (TVC) Testing
+#### D. Thermal Vacuum Chamber (TVC) Testing
 **Purpose:** Ensure CubeSat can withstand extreme temperature variations.  
 
 **Process:**  
@@ -86,7 +86,7 @@ The Alpha CubeSat release mechanism consists of:
 
 ---
 
-### E. DeSCENT Deployment Test
+#### E. DeSCENT Deployment Test
 **Goal:** Conduct formal deployment test with **100 ChipSats**.  
 
 **Process:**  
