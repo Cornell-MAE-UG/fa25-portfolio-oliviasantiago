@@ -27,7 +27,7 @@ Additional responsibilities included preparing and testing CubeSats and supporti
 Below are the five major assignments I completed this semester (chronologically), mostly alongside **Joshua Umansky-Castro** and I&T members **Apurva Hanwadikar, Cion Kim, Langston Hughes, and Italivi Diaz**. Latch displacement was measured after each test.  
 
 #### A. Deployment Testing / Knot Tying
-![Figure 1: Final knot configuration]({{ "assets/images/knot_config.png" | relative_url }}){: .inline-image-l}
+![Figure 1: Final knot configuration]({{ "assets/images/knot_config.png" | relative_url }}){: .inline-image-r}
 The Alpha CubeSat release mechanism consists of:  
 - Solar panel roof  
 - Milled aluminum latch and spring  
