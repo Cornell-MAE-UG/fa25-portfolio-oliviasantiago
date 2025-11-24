@@ -45,8 +45,7 @@ The Alpha CubeSat release mechanism consists of:
 
 **Outcome:** Deployment testing was successful; test CubeSats confirmed latch movement matched the flight unit.  
 
-![Figure 1: Final knot configuration](/assets/images/knot_config.png)  
-![Figure 1: Final knot configuration]({{ "assets/images/knot_config.png" | relative_url }}){: class="profile-image"}
+![Figure 1: Final knot configuration]({{ "assets/images/knot_config.png" | relative_url }}){: .inline-image-l}
 
 ---
 
