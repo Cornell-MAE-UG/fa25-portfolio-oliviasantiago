@@ -45,7 +45,7 @@ The Alpha CubeSat release mechanism consists of:
 
 **Outcome:** Deployment testing was successful; test CubeSats confirmed latch movement matched the flight unit.  
 
-![Figure 1: Final knot configuration](assets/images/knot_config.png)  
+![Figure 1: Final knot configuration](/assets/images/knot_config.png)  
 
 ---
 
@@ -66,8 +66,8 @@ The Alpha CubeSat release mechanism consists of:
 - CubeSat loaded into payload holder and sent to Intertek for formal vibration testing  
 - Observed test and confirmed hardware integrity after test  
 
-![Figure 2: Vibration test setup](assets/images/vibration_setup.jpg)  
-![Figure 3: Frequency response graph](assets/images/frequency_graph.jpg)  
+![Figure 2: Vibration test setup](/assets/images/vibration_setup.jpg)  
+![Figure 3: Frequency response graph](/assets/images/frequency_graph.jpg)  
 
 ---
 
@@ -81,8 +81,8 @@ The Alpha CubeSat release mechanism consists of:
 
 **Outcome:** Deployment latch showed minimal movement, CubeSat passed TVC testing  
 
-![Figure 4: TVC setup](assets/images/tvc_setup.jpg)  
-![Figure 5: Chamber interior during testing](assets/images/tvc_interior.jpg)  
+![Figure 4: TVC setup](/assets/images/tvc_setup.jpg)  
+![Figure 5: Chamber interior during testing](/assets/images/tvc_interior.jpg)  
 
 ---
 
