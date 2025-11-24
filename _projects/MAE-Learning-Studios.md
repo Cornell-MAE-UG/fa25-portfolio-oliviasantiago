@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
+title: MAE Learning Studios 
+description: Aiding in the advancement of Cornell engineering coursework hardware
 technologies: [SolidWorks, Machining]
 image: /assets/images/spaceship-design.jpg
 ---
