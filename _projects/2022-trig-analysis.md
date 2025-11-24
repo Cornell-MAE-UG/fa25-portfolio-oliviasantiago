@@ -67,8 +67,8 @@ The Alpha CubeSat release mechanism consists of:
 - CubeSat loaded into payload holder and sent to Intertek for formal vibration testing  
 - Observed test and confirmed hardware integrity after test  
 
-![Figure 2: Vibration test setup](/assets/images/vibration_setup.jpg)  
-![Figure 3: Frequency response graph](/assets/images/frequency_graph.jpg)  
+![Figure 2: Vibration test setup]({{ "assets/images/vibration_setup.jpg" | relative_url }}){: .inline-image-r}  
+![Figure 3: Frequency response graph]({{ "assets/images/frequency_graph.jpg" | relative_url }}){: .inline-image-l}  
 
 ---
 
@@ -82,8 +82,8 @@ The Alpha CubeSat release mechanism consists of:
 
 **Outcome:** Deployment latch showed minimal movement, CubeSat passed TVC testing  
 
-![Figure 4: TVC setup](/assets/images/tvc_setup.jpg)  
-![Figure 5: Chamber interior during testing](/assets/images/tvc_interior.jpg)  
+![Figure 4: TVC setup]({{ "assets/images/tvc_setup.jpg" | relative_url}}){: .inline-image-l}  
+![Figure 5: Chamber interior during testing]({{ "assets/images/tvc_interior.jpg" | relative_url}}){: .inline-image-r}  
 
 ---
 
@@ -100,8 +100,6 @@ The Alpha CubeSat release mechanism consists of:
 - All 100 ChipSats deployed successfully  
 - Bulk reached ~20 inches height  
 - Launch bars showed no defects  
-
-</details>
 
 ---
 
