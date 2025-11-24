@@ -34,7 +34,7 @@ The Alpha CubeSat release mechanism consists of:
 - Two burn wires  
 
 **Goal:** Determine optimal knot and burn wire configuration.  
-
+![Figure 1: Final knot configuration]({{ "assets/images/knot_config.png" | relative_url }}){: .inline-image-l}
 **Process:**  
 - Tested different knot placements, wraps, and tension on test CubeSats  
 - Selected configuration with:  
@@ -45,7 +45,7 @@ The Alpha CubeSat release mechanism consists of:
 
 **Outcome:** Deployment testing was successful; test CubeSats confirmed latch movement matched the flight unit.  
 
-![Figure 1: Final knot configuration]({{ "assets/images/knot_config.png" | relative_url }}){: .inline-image-l}
+
 
 ---
 
