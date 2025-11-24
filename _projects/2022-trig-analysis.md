@@ -22,8 +22,7 @@ As a new team member familiar with deployment mechanisms, I contributed to testi
 
 Additional responsibilities included preparing and testing CubeSats and supporting cleanroom assembly. After completing I&T, I returned to DeSCENT to run and document formal tests.  
 
-<details>
-<summary>II. Major Assignments</summary>
+## II. Major Assignments
 
 Below are the five major assignments I completed this semester (chronologically), mostly alongside **Joshua Umansky-Castro** and I&T members **Apurva Hanwadikar, Cion Kim, Langston Hughes, and Italivi Diaz**. Latch displacement was measured after each test.  
 
