@@ -82,8 +82,8 @@ The Alpha CubeSat release mechanism consists of:
 
 **Outcome:** Deployment latch showed minimal movement, CubeSat passed TVC testing  
 
-![Figure 4: TVC setup]({{ "assets/images/tvc_setup.jpg" | relative_url}}){: .inline-image-l}  
-![Figure 5: Chamber interior during testing]({{ "assets/images/tvc_interior.jpg" | relative_url}}){: .inline-image-r}  
+![Figure 4: TVC setup]({{ "assets/images/tvc_setup.jpg" | relative_url}}){: .project-image}  
+![Figure 5: Chamber interior during testing]({{ "assets/images/tvc_interior.jpg" | relative_url}}){: .project-image}  
 
 ---
 
