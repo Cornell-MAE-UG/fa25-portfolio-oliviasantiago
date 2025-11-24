@@ -67,8 +67,8 @@ The Alpha CubeSat release mechanism consists of:
 - CubeSat loaded into payload holder and sent to Intertek for formal vibration testing  
 - Observed test and confirmed hardware integrity after test  
 
-![Figure 2: Vibration test setup]({{ "assets/images/vibration_setup.jpg" | relative_url }}){: .inline-image-r}  
-![Figure 3: Frequency response graph]({{ "assets/images/frequency_graph.jpg" | relative_url }}){: .inline-image-l}  
+![Figure 2: Vibration test setup]({{ "assets/images/vibration_setup.jpg" | relative_url }}){: .project-image}  
+![Figure 3: Frequency response graph]({{ "assets/images/frequency_graph.jpg" | relative_url }}){: .project-image}  
 
 ---
 
