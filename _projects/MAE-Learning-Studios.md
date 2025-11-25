@@ -2,12 +2,14 @@
 layout: project
 title: MAE Learning Studios 
 description: Aiding in the advancement of Cornell engineering coursework hardware
-technologies: [SolidWorks, Machining]
-image: /assets/images/spaceship-design.jpg
+technologies: [Fusion 360, power tools]
+image: /assets/images/EngineCAD.png
 ---
 
+## Overview
+The Glenn Curtiss Museum has many engines but few ways for visitors to interact with them. The Cornell University Mechanical & Aerospace Engineering Department is collaborating with them to generate augmented reality versions of aircraft engines.  One of these engines is the century-old Curtiss OX-5 V8 engine. 
 
-In 2021, NASA asked me to design a spaceship...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+In a team of four other students and under the guidance of Professor Brian Kirby, we designed and built a custom engine stand, successfully disassembled the engine into its separate components, replicated the parts in Fusion 360, and put together a complete 3D kinematic model.
+During this project, I developed my CAD skills, learned how to use specific power tools, and furthered my understanding of piston-cylinder engines.  
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
-
+### Timeline
