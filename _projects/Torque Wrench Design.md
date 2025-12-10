@@ -37,10 +37,11 @@ Hand calcs yielded:
 - Factor of Safety for Fatigue: 1.62
 - Strain at gauge: 1030.5 microstrain
 
- ### ANSYS Analysis
+### ANSYS Analysis
+
 ![Total Deflection]({{ "/assets/images/newdesign_totaldeformation.png" | relative_url }}){: .project-image"}
 
- ### CAD Renderings
+### CAD Renderings
 
 ![Photo of old radio]({{ "/assets/images/CAD_Renderings.png" | relative_url }}){: .project-image-l}
 
