@@ -13,6 +13,6 @@ In this project, a two-dimensional planar dynamics model is developed to capture
 
 The resulting linearized equations are expressed in state-space form to support control system design. Multiple feedback controllers are then developed to stabilize the yaw dynamics and regulate heading. Finally, the controllers are evaluated through MATLAB simulations of the original nonlinear model, allowing comparison between linear predictions and nonlinear system response.
 
-## Final Report
+### Final Report
 
 📄 [View Full Project Report (PDF)](assets/Final_Groupwork_Report.pdf)
