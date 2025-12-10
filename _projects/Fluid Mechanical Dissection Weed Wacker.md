@@ -3,7 +3,7 @@ layout: project
 title: Fluid Mechanical Dissection of Weed Wacker
 description: MAE 3230 Introductory Fluid Mechanics Final Project
 technologies: [Torque Wrench]
-image: /assets/images/newdesign_maximumprincipalstress.png
+image: /assets/images/sprial.hfic
 ---
 
 ## Overview
