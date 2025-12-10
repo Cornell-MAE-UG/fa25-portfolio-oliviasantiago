@@ -1,8 +1,8 @@
 ---
 layout: project
-title: ATLAS v2 Battery Box
-description: Advanced CAD Project
-technologies: [Autodesk Fusion]
+title: Nonlinear Modeling of Rudder-Steered Autonomous Boat
+description: MAE 3260 Final Design Project
+technologies: [MATLAB]
 image: /assets/images/BatteryBox CAD.png
 ---
 
