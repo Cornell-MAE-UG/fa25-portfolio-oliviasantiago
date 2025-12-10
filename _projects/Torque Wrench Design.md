@@ -38,11 +38,11 @@ Hand calcs yielded:
 - Strain at gauge: 1030.5 microstrain
 
  ### ANSYS Analysis
-![Total Deflection]({{ "/assets/images/newdesign_totaldeformation.png" | relative_url }}){: .inline-image-r style="width: 200px"}
+![Total Deflection]({{ "/assets/images/newdesign_totaldeformation.png" | relative_url }}){: .project-image"}
 
  ### CAD Renderings
 
-![Photo of old radio]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-l}
+![Photo of old radio]({{ "/assets/images/CAD_Renderings.png" | relative_url }}){: .project-image-l}
 
 
 
