@@ -7,14 +7,13 @@ permalink: /cv/
 
 [Download my CV]({{ "/assets/Resume.pdf" | relative_url }}) in PDF format.
 
-
+ 
 **Email:** [obs23@cornell.edu](mailto:obs23@cornell.edu) | | | **Phone:** +1 469 993 6256
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
-
+Current junior at Cornell University studying mechanical engineering with a strong interest in aerospace and autonomous vehicles.
 ---
 
 #### Education
