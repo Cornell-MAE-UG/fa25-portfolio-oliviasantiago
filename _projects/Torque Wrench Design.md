@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Torque Wrench Design
-description: MAE 3270: Mecahnics of Materials Final Project
+description: MAE 3270 Mecahnics of Materials Final Project
 technologies: [ANSYS]
 image: /assets/images/BatteryBox CAD.png
 ---
