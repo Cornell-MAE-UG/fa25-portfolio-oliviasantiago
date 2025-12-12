@@ -14,7 +14,7 @@ Working closely with the electrical and software subteams, I developed a custom 
 
 The final battery mount performed successfully through more than ten flight tests, including full mission operations at the C-UASC competition in the Mojave Desert, CA, where the aircraft completed all required sorties without structural issues.
 
-![Photo of old radio]({{ "/assets/images/BB_fuse_angled.png" | relative_url }}){: .project-image}
+![Photo of old radio]({{ "/assets/images/BB_fuse_angled.PNG" | relative_url }}){: .project-image}
 
 ![Photo of old radio]({{ "/assets/images/BB_sideview.png" | relative_url }}){: .project-image}
 
