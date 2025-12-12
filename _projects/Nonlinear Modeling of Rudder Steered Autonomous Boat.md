@@ -15,4 +15,4 @@ The resulting linearized equations are expressed in state-space form to support 
 
 ### Final Report
 
-📄 [View Full Project Report (PDF)](assets/Final_Groupwork_Report.pdf)
+📄 [View Full Project Report (PDF)]({{ "/assets/Final_Groupwork_Report.pdf" | relative_url }})
