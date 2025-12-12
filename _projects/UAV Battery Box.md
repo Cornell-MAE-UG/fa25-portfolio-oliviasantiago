@@ -2,24 +2,24 @@
 layout: project
 title: ATLAS v2 Battery Box
 description: Advanced CAD Project
-technologies: [Autodesk Fusion]
+technologies: [SolidWorks, 3D Printing, Laser Cutting, Epoxy Installation]
 image: /assets/images/BatteryBox CAD.png
 ---
 
-For a class, we were asked to CAD a complex object. This design was...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. 
+## Overview
+Atlas is a 55-lb VTOL quadrotor–fixed-wing autonomous aircraft designed to carry two large 6S 2500 mAh batteries housed in the forward fuselage electrical bay. I was responsible for designing a battery mounting system that was accessible, structurally robust, and straightforward to manufacture.
 
-Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+Working closely with the electrical and software subteams, I developed a custom battery enclosure using SolidWorks and a combination of PLA-CF 3D-printed components and laser-cut plates, integrated into the fuselage using epoxy bonding. The design balanced packaging constraints, center-of-gravity requirements, and operational accessibility for pre-flight checks.
 
-![Shaded rendering of earlier version]({{ "/assets/images/radio-machine.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+The final battery mount performed successfully through more than ten flight tests, including full mission operations at the C-UASC competition in the Mojave Desert, CA, where the aircraft completed all required sorties without structural issues.
 
-Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+![Installed Battery Box in Fusealage]({{ "/assets/images/BB_installed.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+![Photo of old radio]({{ "/assets/images/BB_fuse_angled.png" | relative_url }}){: .inline-image-l}
 
-I was inspired by this old radio when I made this rendering:
+![Photo of old radio]({{ "/assets/images/BB_sideview.png" | relative_url }}){: .inline-image-l}
 
-![Photo of old radio]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-l}
+![Photo of old radio]({{ "/assets/images/BB_aerialview.png" | relative_url }}){: .inline-image-l}
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+
