@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Resume
 
-[Download my Resume]({{ "/assets/pages/Olivia_Santiago_Resume_(New Grad).pdf" | relative_url }}) in PDF format.
+[Download my Resume]({{ "/assets/pages/Olivia_Santiago_Resume.pdf" | relative_url }}) in PDF format.
 
  
 **Email:** [obs23@cornell.edu](mailto:obs23@cornell.edu) | | | **Phone:** +1 469 993 6256
@@ -13,7 +13,7 @@ permalink: /cv/
 ---
 
 <iframe 
-    src="../assets/pages/Olivia_Santiago_Resume_(New Grad).pdf"
+    src="../assets/pages/Olivia_Santiago_Resume.pdf"
     width="100%" 
     height="800px" 
     style="border: none;">
