@@ -6,7 +6,7 @@ title: Olivia Santiago
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/Headshot_2025.jpg" | relative_url }}){: class="profile-image-large"}
+![Profile Picture]({{ "assets/images/Headshot_2025.JPG" | relative_url }}){: class="profile-image-large"}
 
  Mechanical engineer @ Cornell ‘27 | Aerospace flight hardware, deployable structures, UAVs | 2x AFRL Scholar (Kirtland + Edwards) | Interim Secret | Open to 2027 roles
 
