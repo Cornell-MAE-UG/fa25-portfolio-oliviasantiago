@@ -3,7 +3,7 @@ layout: default
 title: Olivia Santiago - Curriculum Vitae
 permalink: /cv/
 ---
-## Resume
+## Resume/CV
 
 [Download my Resume]({{ "/assets/pages/Olivia_Santiago_Resume.pdf" | relative_url }}) in PDF format.
 
