@@ -10,6 +10,8 @@ title: Olivia Santiago
 
  Mechanical engineer @ Cornell ‘27 | Aerospace flight hardware, deployable structures, UAVs | 2x AFRL Scholar (Kirtland + Edwards) | Interim Secret | Open to 2027 roles
 
+ 
+
 My name is {{ site.name }}, and I’m a Mechanical Engineering student at Cornell (May 2027) who designs, builds, and tests aerospace flight hardware. As a **two-time AFRL Scholar**, I designed and manufactured a gravity offload follower prototype for deployable satellite structures at Kirtland AFB, and built MATLAB flight-dynamics simulations to benchmark adversary UAV performance at Edwards AFB.
 
 On campus, I previously lead the Integration & Testing sub team on [CUAir](https://cuair.org/), taking UAV subsystems from concept to flight-ready, and I supported thermal testing and cleanroom integration of the [Alpha CubeSat](https://www.spacecraftresearch.com/) for launch aboard SpaceX NG-23. 
